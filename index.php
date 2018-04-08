@@ -16,7 +16,7 @@
   <main class="fluxcard">
     <h1>Rules to Play By</h1>
 
-    <p>An exhibition of rules, instructions, recipes, scripts, programs, and scores intersecting games &amp; art.</p>
+    <p>An exhibition of rules, instructions, recipes, scripts, programs, and scores. <!-- intersecting games &amp; art. --></p>
 
     <ul>
       <li>submit</li>
