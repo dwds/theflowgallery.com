@@ -27,15 +27,15 @@ body {
 
 .fluxcard {
   /*max-width: 1100px;
-  min-height: 80vh;*/
-  /*height: 58.76vh;
-  width: 80vh;*/
-  height: 80vh;
-  width: 108.91763104152486vh;
+  min-height: 80vmin;*/
+  /*height: 58.76vmin;
+  width: 80vmin;*/
+  height: 80vmin;
+  width: 108.91763104152486vmin;
   margin: 0 auto;
-  padding-top: 21.130020422vh; /* 26.4125255% of height */
-  padding-left: 18.515997277vh; /* 17% of width */
-  padding-right: 18.515997277vh; /* 17% of width */
+  padding-top: 21.130020422vmin; /* 26.4125255% of height */
+  padding-left: 18.515997277vmin; /* 17% of width */
+  padding-right: 18.515997277vmin; /* 17% of width */
   background-image: url(../img/flux-card-blank.jpg);
   background-size: contain;
   background-repeat: no-repeat;
@@ -44,29 +44,29 @@ body {
 }
 
 .fluxcard h1 {
-  font-size: 4vh; /* 3.376446562vh; 4.2205582% of height */
-  margin-bottom: 10.129339687vh; /* 12.6616746% of height */
+  font-size: 4vmin; /* 3.376446562vmin; 4.2205582% of height */
+  margin-bottom: 10.129339687vmin; /* 12.6616746% of height */
   text-transform: uppercase;
 }
 
 .fluxcard p,
 .fluxcard ul {
-  font-size: 4vh;
+  font-size: 4vmin;
   line-height: 1.3;
   font-weight: 500;
 }
 
 .fluxcard p {
-  margin-bottom: 4.683458135vh; /* 5.8543227% of height*/
+  margin-bottom: 4.683458135vmin; /* 5.8543227% of height*/
 }
 
 .fluxcard ul {
-  padding-left: 9.693669163vh; /* 8.9% of width */
+  padding-left: 9.693669163vmin; /* 8.9% of width */
   list-style: none;
 }
 
 .fluxcard li {
-  margin-bottom: 7.26611834vh; /* 6.6712049% of height */
+  margin-bottom: 7.26611834vmin; /* 6.6712049% of height */
 }
 
 .fluxcard li:before {
@@ -74,5 +74,5 @@ body {
   font-size: 250%;
   vertical-align: middle;
   line-height: 0.4;
-  margin-right: 2.96vh; /* 3.7% of width */
+  margin-right: 2.96vmin; /* 3.7% of width */
 }
