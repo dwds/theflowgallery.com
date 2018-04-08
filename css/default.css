@@ -24,19 +24,41 @@ body {
   background-color: #eceee9;
 }
 
-main {
-  max-width: 1100px;
-  min-height: 80vh;
+
+.fluxcard {
+  /*max-width: 1100px;
+  min-height: 80vh;*/
+  /*height: 58.76vh;
+  width: 80vh;*/
+  height: 80vh;
+  width: 108.91763104152486vh;
   margin: 0 auto;
-  padding: 50px;
+  padding-top: 21.130020422vh; /* 26.4125255% of height */
+  padding-left: 18.515997277vh; /* 17% of width */
+  padding-right: 18.515997277vh; /* 17% of width */
   background-image: url(../img/flux-card-blank.jpg);
   background-size: contain;
   background-repeat: no-repeat;
   background-position: top center;
-  border: 1px solid blue;
 }
 
-.rtpb-bg {
-  max-width: 80%;
-  margin: 0 auto;
+.fluxcard h1 {
+  font-size: 4vh; /* 3.376446562vh; 4.2205582% of height */
+  margin-bottom: 10.129339687vh; /* 12.6616746% of height */
+  text-transform: uppercase;
+}
+
+.fluxcard p,
+.fluxcard ul {
+  font-size: 4vh;
+  line-height: 1.3;
+  font-weight: 500;
+}
+
+.fluxcard p {
+  margin-bottom: 5.22804629vh; /* 6.5350579% of height*/
+}
+
+.fluxcard ul {
+  padding-left: 17.154526889vh; /* 15.75% of width */
 }

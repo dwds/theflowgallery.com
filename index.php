@@ -13,8 +13,25 @@
     </nav>
   </header>
 
-  <main>
+  <main class="fluxcard">
     <h1>Rules to Play By</h1>
+
+    <p>An exhibition of rules, instructions, recipes, scripts, programs, and scores intersecting games &amp; art.</p>
+
+    <ul>
+      <li>one</li>
+      <li>two</li>
+      <li>three</li>
+      <li></li>
+      <li></li>
+      <li></li>
+      <li></li>
+      <li></li>
+      <li></li>
+      <li></li>
+      <li></li>
+      <li></li>
+    </ul>
   </main>
 </body>
 </html>
