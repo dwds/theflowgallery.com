@@ -61,5 +61,18 @@ body {
 }
 
 .fluxcard ul {
-  padding-left: 17.154526889vh; /* 15.75% of width */
+  padding-left: 9.693669163vh; /* 8.9% of width */
+  list-style: none;
+}
+
+.fluxcard li {
+  margin-bottom: 7.26611834vh; /* 6.6712049% of height */
+}
+
+.fluxcard li:before {
+  content: "•";
+  font-size: 250%;
+  vertical-align: middle;
+  line-height: 0.4;
+  margin-right: 2.96vh; /* 3.7% of width */
 }
