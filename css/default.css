@@ -33,10 +33,10 @@ body {
   height: 80vmin;
   width: 108.91763104152486vmin;
   margin: 0 auto;
-  padding-top: 21.130020422vmin; /* 26.4125255% of height */
-  padding-left: 18.515997277vmin; /* 17% of width */
+  padding-top: 20vmin; /* 26.4125255% of height */
+  padding-left: 18.2vmin; /* 17% of width */
   padding-right: 18.515997277vmin; /* 17% of width */
-  background-image: url(../img/flux-card-blank.jpg);
+  background-image: url(../img/flux-card.jpg);
   background-size: contain;
   background-repeat: no-repeat;
   background-position: top center;
