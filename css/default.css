@@ -21,7 +21,8 @@ video {
 
 body {
   font-family: 'Roboto', sans-serif;
-  background-color: #eceee9;
+  background-image: linear-gradient(to right,
+      #eceee9, #e5e7e2);
 }
 
 
