@@ -40,6 +40,7 @@ body {
   background-size: contain;
   background-repeat: no-repeat;
   background-position: top center;
+  color: #35302c;
 }
 
 .fluxcard h1 {
@@ -56,7 +57,7 @@ body {
 }
 
 .fluxcard p {
-  margin-bottom: 5.22804629vh; /* 6.5350579% of height*/
+  margin-bottom: 4.683458135vh; /* 5.8543227% of height*/
 }
 
 .fluxcard ul {
