@@ -21,4 +21,22 @@ video {
 
 body {
   font-family: 'Roboto', sans-serif;
+  background-color: #eceee9;
+}
+
+main {
+  max-width: 1100px;
+  min-height: 80vh;
+  margin: 0 auto;
+  padding: 50px;
+  background-image: url(../img/flux-card-blank.jpg);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: top center;
+  border: 1px solid blue;
+}
+
+.rtpb-bg {
+  max-width: 80%;
+  margin: 0 auto;
 }

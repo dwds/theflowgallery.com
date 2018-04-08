@@ -8,13 +8,13 @@
 </head>
 <body>
   <header>
-    <h1>Rules to Play By</h1>
+    <h1>the flow gallery</h1>
     <nav>
     </nav>
   </header>
 
   <main>
-    <img src="img/flux-card-blank.jpg" alt="">
+    <h1>Rules to Play By</h1>
   </main>
 </body>
 </html>
