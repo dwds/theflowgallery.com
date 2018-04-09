@@ -156,6 +156,7 @@ nav a:hover {
   background-position: top center;
   color: #35302c;
   text-shadow: 0px 0px 0.5px #35302c;
+  outline: 0;
 }
 
 .fluxcard h1 {
