@@ -28,8 +28,18 @@ body {
               linear-gradient(to top, #eff1ec, transparent);
 }
 
-h1 {
-  font-weight: 500;
+header {
+  padding: 20px 50px;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+}
+
+.site-title {
+  font-family: 'Dosis', sans-serif;
+  font-weight: 200;
+  text-decoration: none;
+  text-transform: lowercase;
+  color: black;
+  font-size: 50px;
 }
 
 .fluxcard {

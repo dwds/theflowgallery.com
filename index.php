@@ -5,11 +5,12 @@
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <title>The Flow Gallery | Rules to Play By</title>
   <link href="https://fonts.googleapis.com/css?family=Roboto:500" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Dosis:200" rel="stylesheet">
   <link rel="stylesheet" href="css/default.css">
 </head>
 <body>
   <header>
-    <h1>the flow gallery</h1>
+    <a class="site-title" href=".">The Flow Gallery</a>
     <nav>
     </nav>
   </header>
