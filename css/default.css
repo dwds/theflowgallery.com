@@ -28,6 +28,9 @@ body {
               linear-gradient(to top, #eff1ec, transparent);
 }
 
+h1 {
+  font-weight: 500;
+}
 
 .fluxcard {
   height: 80vmin;
@@ -46,6 +49,7 @@ body {
 
 .fluxcard h1 {
   font-size: 4vmin;
+  font-weight: 500;
   margin-bottom: 9vmin;
   text-transform: uppercase;
   transform: rotate(0.5deg);
