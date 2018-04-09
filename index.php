@@ -3,6 +3,16 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1">
+
+  <!-- Twitter card -->
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:site" content="@nytimesbits">
+  <meta name="twitter:creator" content="@dwds_">
+  <meta property="og:url" content="https://theflowgallery.com/">
+  <meta property="og:title" content="Rules to Play By: A game / art exhibition">
+  <meta property="og:description" content="Rules to Play By is a playful weekend exhibition of rules, instructions, recipes, scripts, programs, scores or any art exploring the theme of “rules to play by.”">
+  <meta property="og:image" content="http://graphics8.nytimes.com/images/2011/12/08/technology/bits-newtwitter/bits-newtwitter-tmagArticle.jpg">
+
   <title>The Flow Gallery | Rules to Play By</title>
   <link href="https://fonts.googleapis.com/css?family=Roboto:500" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css?family=Dosis:200" rel="stylesheet">
