@@ -30,16 +30,12 @@ body {
 
 
 .fluxcard {
-  /*max-width: 1100px;
-  min-height: 80vmin;*/
-  /*height: 58.76vmin;
-  width: 80vmin;*/
   height: 80vmin;
   width: 108.91763104152486vmin;
   margin: 0 auto;
-  padding-top: 20.5vmin; /* 26.4125255% of height */
-  padding-left: 18.2vmin; /* 17% of width */
-  padding-right: 18.515997277vmin; /* 17% of width */
+  padding-top: 20.5vmin;
+  padding-left: 18.2vmin;
+  padding-right: 18.2vmin;
   background-image: url(../img/flux-card-blank.jpg);
   background-size: contain;
   background-repeat: no-repeat;
@@ -49,8 +45,8 @@ body {
 }
 
 .fluxcard h1 {
-  font-size: 4vmin; /* 3.376446562vmin; 4.2205582% of height */
-  margin-bottom: 9vmin; /* 12.6616746% of height */
+  font-size: 4vmin;
+  margin-bottom: 9vmin;
   text-transform: uppercase;
   transform: rotate(0.5deg);
 }
@@ -63,17 +59,17 @@ body {
 }
 
 .fluxcard p {
-  margin-bottom: 4.683458135vmin; /* 5.8543227% of height*/
+  margin-bottom: 4.683458135vmin;
   transform: rotate(1.2deg);
 }
 
 .fluxcard ul {
-  padding-left: 9vmin; /* 8.9% of width */
+  padding-left: 9vmin;
   list-style: none;
 }
 
 .fluxcard li {
-  margin-bottom: 4.5vmin; /* 6.6712049% of height */
+  margin-bottom: 4.5vmin;
   transform: rotate(1.1deg);
 }
 
@@ -82,7 +78,7 @@ body {
   font-size: 300%;
   vertical-align: middle;
   line-height: 0.3333333333;
-  margin-right: 4vmin; /* 3.7% of width */
+  margin-right: 4vmin;
 }
 
 .fluxcard li:nth-of-type(n+4) {
@@ -98,14 +94,14 @@ body {
   .fluxcard {
     width: 97vmin;
     height: 71.2465vmin;
-    padding-top: 18.256915625vmin; /* 26.4125255% of height */
-    padding-left: 16.20857875vmin; /* 17% of width */
-    padding-right: 16.20857875vmin; /* 17% of width */
+    padding-top: 18.256915625vmin;
+    padding-left: 16.20857875vmin;
+    padding-right: 16.20857875vmin;
   }
 
   .fluxcard h1 {
-    font-size: 3.562325vmin; /* 3.376446562vmin; 4.2205582% of height */
-    margin-bottom: 8.01523125vmin; /* 12.6616746% of height */
+    font-size: 3.562325vmin;
+    margin-bottom: 8.01523125vmin;
   }
 
   .fluxcard p,
@@ -114,18 +110,18 @@ body {
   }
 
   .fluxcard p {
-    margin-bottom: 4.171vmin; /* 5.8543227% of height*/
+    margin-bottom: 4.171vmin;
   }
 
   .fluxcard ul {
-    padding-left: 8.01523125vmin; /* 8.9% of width */
+    padding-left: 8.01523125vmin;
   }
 
   .fluxcard li {
-    margin-bottom: 4.007615625vmin; /* 6.6712049% of height */
+    margin-bottom: 4.007615625vmin;
   }
 
   .fluxcard li:before {
-    margin-right: 3.562325vmin; /* 3.7% of width */
+    margin-right: 3.562325vmin;
   }
 }
