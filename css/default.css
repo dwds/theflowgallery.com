@@ -28,6 +28,11 @@ body {
               linear-gradient(to top, #eff1ec, transparent);
 }
 
+b,
+strong {
+  font-weight: 600;
+}
+
 header {
   padding: 20px 50px;
   border-bottom: 1px solid rgba(0, 0, 0, 0.2);
@@ -65,7 +70,8 @@ nav a:hover {
 }
 
 /* ABOUT PAGE */
-.about {
+.about,
+.exhibitions {
   max-width: 1100px;
   margin: 20px auto;
   font-family: 'Dosis', sans-serif;
@@ -73,13 +79,15 @@ nav a:hover {
   padding: 0 50px;
 }
 
-.about h1 {
+.about h1,
+.exhibitions h1 {
   font-size: 50px;
   font-weight: 200;
   margin-bottom: 20px;
 }
 
-.about p {
+.about p,
+.exhibitions p {
   font-size: 30px;
   font-weight: 200;
 }
@@ -120,6 +128,20 @@ nav a:hover {
 .bio a:link {
   color: blue;
 }
+
+/* EXHIBITIONS */
+
+.exhibitions p {
+  margin-bottom: 20px;
+}
+
+.exhibitions h2 {
+  font-weight: 600;
+  font-size: 40px;
+  margin-bottom: 10px;
+}
+
+/* RULES TO PLAY BY */
 
 .fluxcard {
   height: 80vmin;
@@ -259,7 +281,7 @@ nav a:hover {
   }
 }
 
-@media screen and (min-width: 580px) {
+@media screen and (min-width: 640px) {
   header {
     flex-direction: row;
   }
