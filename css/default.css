@@ -87,6 +87,9 @@ body {
 .fluxcard li:nth-of-type(n+4) {
   text-shadow: none;
   transform: rotate(0deg);
+}
+
+.fluxcard li:nth-of-type(n+4) a {
   color: blue;
 }
 
