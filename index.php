@@ -6,11 +6,10 @@
 
   <!-- Twitter card -->
   <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:site" content="@nytimesbits">
-  <meta name="twitter:creator" content="@dwds_">
+  <meta name="twitter:site" content="@theflowgallery">
   <meta property="og:url" content="https://theflowgallery.com/">
   <meta property="og:title" content="Rules to Play By: A game / art exhibition">
-  <meta property="og:description" content="An exhibition of rules, instructions, recipes, scripts, programs, scores or any art exploring the theme of “rules to play by.”">
+  <meta property="og:description" content="Currently accepting submissions. An exhibition of rules, instructions, recipes, scripts, programs, scores or any art exploring the theme of “rules to play by.”">
   <meta property="og:image" content="http://theflowgallery.com/its-a-secret/img/rules-to-play-by.png">
   <meta property="og:image:alt" content="A paper card in the style of Fluxus event scores. The text “submit” is repeated.">
 
