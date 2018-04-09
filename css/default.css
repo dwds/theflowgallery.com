@@ -81,13 +81,53 @@ body {
   margin-right: 4vmin;
 }
 
-.fluxcard li:nth-of-type(n+4) {
+.fluxcard li:nth-of-type(3):before {
+  display: inline-block;
+  color: #35302c;
+}
+
+.fluxcard ul li:nth-of-type(n+4) {
   text-shadow: none;
-  transform: rotate(0deg);
 }
 
 .fluxcard li:nth-of-type(n+4) a {
   color: blue;
+}
+
+.fluxcard li:nth-of-type(4) {
+  transform: rotate(1.5deg);
+}
+
+.fluxcard li:nth-of-type(5) {
+  transform: rotate(2deg);
+}
+
+.fluxcard li:nth-of-type(6) {
+  transform: rotate(4deg);
+}
+
+.fluxcard li:nth-of-type(7) {
+  transform: rotate(8deg);
+}
+
+.fluxcard li:nth-of-type(8) {
+  transform: rotate(16deg);
+}
+
+.fluxcard li:nth-of-type(9) {
+  transform: rotate(32deg);
+}
+
+.fluxcard li:nth-of-type(10) {
+  transform: rotate(64deg);
+}
+
+.fluxcard li:nth-of-type(11) {
+  transform: rotate(80deg);
+}
+
+.fluxcard li:nth-of-type(12) {
+  transform: rotate(90deg);
 }
 
 @media screen and (orientation: portrait), screen and (orientation: landscape) and (max-aspect-ratio: 500/448) {
