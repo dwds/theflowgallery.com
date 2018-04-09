@@ -48,15 +48,15 @@
       <li>submit</li>
       <li>submit</li>
       <li>submit</li>
-      <li contenteditable="false"><a href="https://docs.google.com/forms/d/e/1FAIpQLScZhUcSIYOKSLhe6Fix0pMjwmaeETV5KjvBKs-2NO7YtFHgQA/viewform">submit</a></li>
-      <li contenteditable="false"><a href="https://docs.google.com/forms/d/e/1FAIpQLScZhUcSIYOKSLhe6Fix0pMjwmaeETV5KjvBKs-2NO7YtFHgQA/viewform">submit</a></li>
-      <li contenteditable="false"><a href="https://docs.google.com/forms/d/e/1FAIpQLScZhUcSIYOKSLhe6Fix0pMjwmaeETV5KjvBKs-2NO7YtFHgQA/viewform">submit</a></li>
-      <li contenteditable="false"><a href="https://docs.google.com/forms/d/e/1FAIpQLScZhUcSIYOKSLhe6Fix0pMjwmaeETV5KjvBKs-2NO7YtFHgQA/viewform">submit</a></li>
-      <li contenteditable="false"><a href="https://docs.google.com/forms/d/e/1FAIpQLScZhUcSIYOKSLhe6Fix0pMjwmaeETV5KjvBKs-2NO7YtFHgQA/viewform">submit</a></li>
-      <li contenteditable="false"><a href="https://docs.google.com/forms/d/e/1FAIpQLScZhUcSIYOKSLhe6Fix0pMjwmaeETV5KjvBKs-2NO7YtFHgQA/viewform">submit</a></li>
-      <li contenteditable="false"><a href="https://docs.google.com/forms/d/e/1FAIpQLScZhUcSIYOKSLhe6Fix0pMjwmaeETV5KjvBKs-2NO7YtFHgQA/viewform">submit</a></li>
-      <li contenteditable="false"><a href="https://docs.google.com/forms/d/e/1FAIpQLScZhUcSIYOKSLhe6Fix0pMjwmaeETV5KjvBKs-2NO7YtFHgQA/viewform">submit</a></li>
-      <li contenteditable="false"><a href="https://docs.google.com/forms/d/e/1FAIpQLScZhUcSIYOKSLhe6Fix0pMjwmaeETV5KjvBKs-2NO7YtFHgQA/viewform">submit</a></li>
+      <li contenteditable="false"><a href="exhibitions/">submit</a></li>
+      <li contenteditable="false"><a href="exhibitions/">submit</a></li>
+      <li contenteditable="false"><a href="exhibitions/">submit</a></li>
+      <li contenteditable="false"><a href="exhibitions/">submit</a></li>
+      <li contenteditable="false"><a href="exhibitions/">submit</a></li>
+      <li contenteditable="false"><a href="exhibitions/">submit</a></li>
+      <li contenteditable="false"><a href="exhibitions/">submit</a></li>
+      <li contenteditable="false"><a href="exhibitions/">submit</a></li>
+      <li contenteditable="false"><a href="exhibitions/">submit</a></li>
     </ul>
     <footer contenteditable="false">
       design inspired by the Fluxkit <cite><a href="https://www.moma.org/collection/works/portfolios/126322?locale=it">Water Yam</a></cite> by George Brecht.
