@@ -20,11 +20,12 @@ video {
 }
 
 body {
+  min-height: 100vh;
   font-family: 'Roboto', sans-serif;
-  background-image: linear-gradient(
-    to right,
-    #eceee9, #e5e7e2
-  );
+  background: linear-gradient(to right, #eceee9, transparent),
+              linear-gradient(to left, #e5e7e2, transparent),
+              linear-gradient(to bottom, #eaece7, transparent),
+              linear-gradient(to top, #eff1ec, transparent);
 }
 
 
