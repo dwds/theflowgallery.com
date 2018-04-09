@@ -64,6 +64,63 @@ nav a:hover {
   border-bottom: 1px solid black;
 }
 
+/* ABOUT PAGE */
+.about {
+  max-width: 1100px;
+  margin: 20px auto;
+  font-family: 'Dosis', sans-serif;
+  font-weight: 600;
+  padding: 0 50px;
+}
+
+.about h1 {
+  font-size: 50px;
+  font-weight: 200;
+  margin-bottom: 20px;
+}
+
+.about p {
+  font-size: 30px;
+  font-weight: 200;
+}
+
+.bio img {
+  max-width: 320px;
+}
+
+.bio {
+  clear: left;
+  margin-bottom: 40px;
+}
+
+.bio h2 {
+  font-weight: 600;
+  font-size: 40px;
+  margin-bottom: 10px;
+}
+
+.bio ul {
+  list-style-position: inside;
+  list-style-type: square;
+  font-size: 30px;
+}
+
+.brianna-img {
+  clip-path: polygon(-3px 10.625%, 95% 5.625%, 88.75% 99.0625%, 3.4375% 92.8125%);
+}
+
+.derek-img {
+  clip-path: polygon(5px 6.5625%, 87.5% 4.0625%, 90.9375% 87.1875%, 1.5625% 96.875%);
+}
+
+.bio a {
+  text-decoration: none;
+}
+
+.bio a:link {
+  color: blue;
+}
+
 .fluxcard {
   height: 80vmin;
   width: 108.91763104152486vmin;
@@ -209,5 +266,15 @@ nav a:hover {
 
   nav {
     margin-left: auto;
+  }
+}
+
+@media screen and (min-width: 642px) {
+  .bio img {
+    float: left;
+  }
+
+  .bio h2 {
+    padding-top: 40px;
   }
 }
