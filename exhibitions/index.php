@@ -54,7 +54,7 @@
 
     <p>We invite you to submit anything from a tabletop RPG to a musical score. All mediums are welcomed.</p>
 
-    <p>Selected pieces will be displayed in up to two locations for the weekend of <b>July 27–29, 2018</b>. One location is a popup art gallery. The other is within Pixelpop Festival. Both locations are in <b>St. Louis, MO</b>.</p>
+    <p>Selected pieces will be displayed in up to two locations for the weekend of <b>July 27–29, 2018</b>. One location is a popup art gallery. The other is within <b><a href="http://pixelpopfestival.com/">Pixelpop Festival</a></b>. Both locations are in <b>St. Louis, MO</b>.</p>
 
     <p>If selected you will receive a notice of where your work will be showing.</p>
 
