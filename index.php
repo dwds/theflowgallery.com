@@ -12,6 +12,10 @@
   <header>
     <a class="site-title" href=".">The Flow Gallery</a>
     <nav>
+      <ul>
+        <li><a href="exhibitions/">exhibitions</a></li>
+        <li><a href="about/">about</a></li>
+      </ul>
     </nav>
   </header>
 

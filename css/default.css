@@ -31,15 +31,37 @@ body {
 header {
   padding: 20px 50px;
   border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+  font-family: 'Dosis', sans-serif;
+  font-weight: 200;
+  display: flex;
+  flex-direction: column;
+  align-items: baseline;
 }
 
 .site-title {
-  font-family: 'Dosis', sans-serif;
-  font-weight: 200;
   text-decoration: none;
   text-transform: lowercase;
   color: black;
   font-size: 50px;
+}
+
+nav ul {
+  list-style: none;
+  display: flex;
+}
+
+nav li {
+  margin-right: 20px;
+}
+
+nav a {
+  color: black;
+  font-size: 30px;
+  text-decoration: none;
+}
+
+nav a:hover {
+  border-bottom: 1px solid black;
 }
 
 .fluxcard {
@@ -177,5 +199,15 @@ header {
 
   .fluxcard li:before {
     margin-right: 3.562325vmin;
+  }
+}
+
+@media screen and (min-width: 580px) {
+  header {
+    flex-direction: row;
+  }
+
+  nav {
+    margin-left: auto;
   }
 }
