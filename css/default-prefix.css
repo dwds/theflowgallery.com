@@ -1,0 +1,368 @@
+html {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+  -webkit-box-sizing: inherit;
+          box-sizing: inherit;
+}
+
+body, p, ul, ol, dl, li, img, video, figure, figcaption, blockquote, h1, h2, h3, h4, h5, h6 {
+  margin: 0;
+  padding: 0;
+}
+
+img,
+video {
+  display: block;
+  max-width: 100%;
+}
+
+body {
+  min-height: 100vh;
+  font-family: 'Roboto', sans-serif;
+  background: -webkit-gradient(linear, left top, right top, from(#eceee9), to(transparent)),
+              -webkit-gradient(linear, right top, left top, from(#e5e7e2), to(transparent)),
+              -webkit-gradient(linear, left top, left bottom, from(#eaece7), to(transparent)),
+              -webkit-gradient(linear, left bottom, left top, from(#eff1ec), to(transparent));
+  background: -webkit-linear-gradient(left, #eceee9, transparent),
+              -webkit-linear-gradient(right, #e5e7e2, transparent),
+              -webkit-linear-gradient(top, #eaece7, transparent),
+              -webkit-linear-gradient(bottom, #eff1ec, transparent);
+  background: -o-linear-gradient(left, #eceee9, transparent),
+              -o-linear-gradient(right, #e5e7e2, transparent),
+              -o-linear-gradient(top, #eaece7, transparent),
+              -o-linear-gradient(bottom, #eff1ec, transparent);
+  background: linear-gradient(to right, #eceee9, transparent),
+              linear-gradient(to left, #e5e7e2, transparent),
+              linear-gradient(to bottom, #eaece7, transparent),
+              linear-gradient(to top, #eff1ec, transparent);
+}
+
+b,
+strong {
+  font-weight: 600;
+}
+
+header {
+  padding: 20px 50px;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+  font-family: 'Dosis', sans-serif;
+  font-weight: 200;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: baseline;
+      -ms-flex-align: baseline;
+          align-items: baseline;
+}
+
+.site-title {
+  text-decoration: none;
+  text-transform: lowercase;
+  color: black;
+  font-size: 50px;
+}
+
+nav ul {
+  list-style: none;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+nav li {
+  margin-right: 20px;
+}
+
+nav a {
+  color: black;
+  font-size: 30px;
+  text-decoration: none;
+}
+
+nav a:hover {
+  border-bottom: 1px solid black;
+}
+
+/* ABOUT PAGE */
+.about,
+.exhibitions {
+  max-width: 1100px;
+  margin: 20px auto;
+  font-family: 'Dosis', sans-serif;
+  font-weight: 600;
+  padding: 0 50px;
+}
+
+.about h1,
+.exhibitions h1 {
+  font-size: 50px;
+  font-weight: 200;
+  margin-bottom: 20px;
+}
+
+.about p,
+.exhibitions p {
+  font-size: 30px;
+  font-weight: 200;
+}
+
+.bio img {
+  max-width: 320px;
+}
+
+.bio {
+  clear: left;
+  margin-bottom: 40px;
+}
+
+.bio h2 {
+  font-weight: 600;
+  font-size: 40px;
+  margin-bottom: 10px;
+}
+
+.bio ul {
+  list-style-position: inside;
+  list-style-type: square;
+  font-size: 30px;
+}
+
+.brianna-img {
+  -webkit-clip-path: polygon(-3px 10.625%, 95% 5.625%, 88.75% 99.0625%, 3.4375% 92.8125%);
+          clip-path: polygon(-3px 10.625%, 95% 5.625%, 88.75% 99.0625%, 3.4375% 92.8125%);
+}
+
+.derek-img {
+  -webkit-clip-path: polygon(5px 6.5625%, 87.5% 4.0625%, 90.9375% 87.1875%, 1.5625% 96.875%);
+          clip-path: polygon(5px 6.5625%, 87.5% 4.0625%, 90.9375% 87.1875%, 1.5625% 96.875%);
+}
+
+.bio a {
+  text-decoration: none;
+}
+
+.bio a:link {
+  color: blue;
+}
+
+/* EXHIBITIONS */
+
+.exhibitions p {
+  margin-bottom: 20px;
+}
+
+.exhibitions h2 {
+  font-weight: 600;
+  font-size: 40px;
+  margin-bottom: 10px;
+}
+
+/* RULES TO PLAY BY */
+
+.fluxcard {
+  height: 80vmin;
+  width: 108.91763104152486vmin;
+  margin: 0 auto;
+  padding-top: 20.5vmin;
+  padding-left: 18.2vmin;
+  padding-right: 18.2vmin;
+  background-image: url(../img/flux-card-blank_950.jpg);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: top center;
+  color: #35302c;
+  text-shadow: 0px 0px 0.5px #35302c;
+  outline: 0;
+}
+
+.fluxcard h1 {
+  font-size: 4vmin;
+  font-weight: 500;
+  margin-bottom: 9vmin;
+  text-transform: uppercase;
+  -webkit-transform: rotate(0.5deg);
+      -ms-transform: rotate(0.5deg);
+          transform: rotate(0.5deg);
+}
+
+.fluxcard p,
+.fluxcard ul {
+  font-size: 4vmin;
+  line-height: 1.1;
+  font-weight: 500;
+}
+
+.fluxcard p {
+  margin-bottom: 4.683458135vmin;
+  -webkit-transform: rotate(1.2deg);
+      -ms-transform: rotate(1.2deg);
+          transform: rotate(1.2deg);
+}
+
+.fluxcard ul {
+  padding-left: 9vmin;
+  list-style: none;
+}
+
+.fluxcard li {
+  margin-bottom: 4.5vmin;
+  -webkit-transform: rotate(1.1deg);
+      -ms-transform: rotate(1.1deg);
+          transform: rotate(1.1deg);
+}
+
+.fluxcard li:before {
+  content: "•";
+  font-size: 300%;
+  vertical-align: middle;
+  line-height: 0.3333333333;
+  margin-right: 4vmin;
+}
+
+.fluxcard li:nth-of-type(3):before {
+  display: inline-block;
+  color: #35302c;
+}
+
+.fluxcard ul li:nth-of-type(n+4) {
+  text-shadow: none;
+}
+
+.fluxcard li:nth-of-type(n+4) a {
+  color: blue;
+}
+
+.fluxcard li:nth-of-type(4) {
+  -webkit-transform: rotate(1.5deg);
+      -ms-transform: rotate(1.5deg);
+          transform: rotate(1.5deg);
+}
+
+.fluxcard li:nth-of-type(5) {
+  -webkit-transform: rotate(2deg);
+      -ms-transform: rotate(2deg);
+          transform: rotate(2deg);
+}
+
+.fluxcard li:nth-of-type(6) {
+  -webkit-transform: rotate(4deg);
+      -ms-transform: rotate(4deg);
+          transform: rotate(4deg);
+}
+
+.fluxcard li:nth-of-type(7) {
+  -webkit-transform: rotate(8deg);
+      -ms-transform: rotate(8deg);
+          transform: rotate(8deg);
+}
+
+.fluxcard li:nth-of-type(8) {
+  -webkit-transform: rotate(16deg);
+      -ms-transform: rotate(16deg);
+          transform: rotate(16deg);
+}
+
+.fluxcard li:nth-of-type(9) {
+  -webkit-transform: rotate(32deg);
+      -ms-transform: rotate(32deg);
+          transform: rotate(32deg);
+}
+
+.fluxcard li:nth-of-type(10) {
+  -webkit-transform: rotate(64deg);
+      -ms-transform: rotate(64deg);
+          transform: rotate(64deg);
+}
+
+.fluxcard li:nth-of-type(11) {
+  -webkit-transform: rotate(80deg);
+      -ms-transform: rotate(80deg);
+          transform: rotate(80deg);
+}
+
+.fluxcard li:nth-of-type(12) {
+  -webkit-transform: rotate(90deg);
+      -ms-transform: rotate(90deg);
+          transform: rotate(90deg);
+}
+
+@media screen and (orientation: portrait), screen and (orientation: landscape) and (max-aspect-ratio: 500/448) {
+  .fluxcard {
+    width: 97vmin;
+    height: 71.2465vmin;
+    padding-top: 18.256915625vmin;
+    padding-left: 16.20857875vmin;
+    padding-right: 16.20857875vmin;
+  }
+
+  .fluxcard h1 {
+    font-size: 3.562325vmin;
+    margin-bottom: 8.01523125vmin;
+  }
+
+  .fluxcard p,
+  .fluxcard ul {
+    font-size: 3.562325vmin;
+  }
+
+  .fluxcard p {
+    margin-bottom: 4.171vmin;
+  }
+
+  .fluxcard ul {
+    padding-left: 8.01523125vmin;
+  }
+
+  .fluxcard li {
+    margin-bottom: 4.007615625vmin;
+  }
+
+  .fluxcard li:before {
+    margin-right: 3.562325vmin;
+  }
+}
+
+@media screen and (max-width: 384px) {
+  .site-title {
+    font-size: 11vw;
+  }
+}
+
+@media screen and (max-width: 650px) {
+  .about,
+  .exhibitions {
+    padding: 0 20px;
+  }
+}
+
+@media screen and (min-width: 640px) {
+  header {
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: row;
+            flex-direction: row;
+  }
+
+  nav {
+    margin-left: auto;
+  }
+}
+
+@media screen and (min-width: 642px) {
+  .bio img {
+    float: left;
+  }
+
+  .bio h2 {
+    padding-top: 40px;
+  }
+}
