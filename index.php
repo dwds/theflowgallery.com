@@ -26,7 +26,7 @@
   <title>The Flow Gallery | Rules to Play By</title>
   <link href="https://fonts.googleapis.com/css?family=Roboto:500" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css?family=Dosis:200" rel="stylesheet">
-  <link rel="stylesheet" href="css/default.css?v=1.3">
+  <link rel="stylesheet" href="css/default.css?v=1.4">
 </head>
 <body>
   <header>
