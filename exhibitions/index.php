@@ -26,7 +26,7 @@
   <title>Exhibitions | The Flow Gallery</title>
   <link href="https://fonts.googleapis.com/css?family=Roboto:500" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css?family=Dosis:200,600" rel="stylesheet">
-  <link rel="stylesheet" href="../css/default.css?v=1.2">
+  <link rel="stylesheet" href="../css/default.css?v=1.3">
 </head>
 <body>
   <header>
