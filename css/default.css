@@ -282,6 +282,12 @@ nav a:hover {
   }
 }
 
+@media screen and (max-width: 384px) {
+  .site-title {
+    font-size: 11vw;
+  }
+}
+
 @media screen and (min-width: 640px) {
   header {
     flex-direction: row;
