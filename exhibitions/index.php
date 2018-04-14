@@ -24,8 +24,25 @@
   <meta property="og:image:alt" content="A paper card in the style of Fluxus event scores. The text “submit” is repeated.">
 
   <title>Exhibitions | The Flow Gallery</title>
-  <link href="https://fonts.googleapis.com/css?family=Roboto:500" rel="stylesheet">
-  <link href="https://fonts.googleapis.com/css?family=Dosis:200,600" rel="stylesheet">
+  <!-- <link href="https://fonts.googleapis.com/css?family=Dosis:200,600|Roboto:500" rel="stylesheet">  -->
+  <style>
+    /* latin */
+    @font-face {
+    font-family: 'Dosis';
+    font-style: normal;
+    font-weight: 200;
+    src: local('Dosis ExtraLight'), local('Dosis-ExtraLight'), url(https://fonts.gstatic.com/s/dosis/v7/HhyXU5sn9vOmLzGnKuCFMIs.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+    }
+    /* latin */
+    @font-face {
+    font-family: 'Dosis';
+    font-style: normal;
+    font-weight: 600;
+    src: local('Dosis SemiBold'), local('Dosis-SemiBold'), url(https://fonts.gstatic.com/s/dosis/v7/HhyXU5sn9vOmLzG3L-CFMIs.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+    }
+  </style>
   <link rel="stylesheet" href="../css/default.css?v=1.4">
 </head>
 <body>
