@@ -62,7 +62,7 @@
 
     <section class="bios">
       <article class="bio">
-        <img class="brianna-img" src="../img/brianna-shuttleworth.jpg" alt="Brianna Shuttleworth">
+        <img class="brianna-img" src="../img/brianna-shuttleworth-opt.jpg" alt="Brianna Shuttleworth">
         <h2>Brianna Shuttleworth</h2>
         <ul>
           <li><a href="https://www.thebricade.com/">thebricade.com</a></li>
@@ -71,7 +71,7 @@
       </article>
 
       <article class="bio">
-        <img class="derek-img" src="../img/derek-dadian-smith.jpg" alt="Derek Dadian-Smith">
+        <img class="derek-img" src="../img/derek-dadian-smith-opt.jpg" alt="Derek Dadian-Smith">
         <h2>Derek Dadian-Smith</h2>
         <ul>
           <li><a href="https://derekds.com">derekds.com</a></li>
