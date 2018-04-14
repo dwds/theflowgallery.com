@@ -86,10 +86,14 @@ nav a:hover {
   margin-bottom: 20px;
 }
 
-.about p,
+.about-description,
 .exhibitions p {
   font-size: 30px;
   font-weight: 200;
+}
+
+.about-description {
+  margin-bottom: 20px;
 }
 
 .bio img {
@@ -111,14 +115,15 @@ nav a:hover {
   list-style-position: inside;
   list-style-type: square;
   font-size: 30px;
+
 }
 
 .brianna-img {
-  clip-path: polygon(-3px 10.625%, 95% 5.625%, 88.75% 99.0625%, 3.4375% 92.8125%);
+  /*clip-path: polygon(-3px 10.625%, 95% 5.625%, 88.75% 99.0625%, 3.4375% 92.8125%);*/
 }
 
 .derek-img {
-  clip-path: polygon(5px 6.5625%, 87.5% 4.0625%, 90.9375% 87.1875%, 1.5625% 96.875%);
+  /*clip-path: polygon(5px 6.5625%, 87.5% 4.0625%, 90.9375% 87.1875%, 1.5625% 96.875%);*/
 }
 
 .bio a {
@@ -305,12 +310,18 @@ nav a:hover {
   }
 }
 
-@media screen and (min-width: 642px) {
+@media screen and (min-width: 665px) {
+
+  .bios {
+    display: block;
+  }
   .bio img {
     float: left;
+    margin-right: 20px;
+    margin-bottom: 20px;
   }
 
   .bio h2 {
-    padding-top: 40px;
+    /*padding-top: 40px;*/
   }
 }

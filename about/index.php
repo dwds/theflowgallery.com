@@ -42,7 +42,7 @@
   <main class="about">
     <h1>about</h1>
 
-    <p>The Flow Gallery is a series of exhibitions exploring the intersection of art &amp; games. As its name suggests, the gallery does not exist in a single location. We exhibit at game festivals and art galleries in an attempt to bridge game designers and artists. The Flow Gallery is curated by Brianna Shuttleworth &amp; Derek Dadian-Smith.</p>
+    <p class="about-description">The Flow Gallery is a series of exhibitions exploring the intersection of art &amp; games. As its name suggests, the gallery does not exist in a single location. We exhibit at game festivals and art galleries in an attempt to bridge game designers and artists. The Flow Gallery is curated by Brianna Shuttleworth &amp; Derek Dadian-Smith.</p>
 
     <section class="bios">
       <article class="bio">
