@@ -14,6 +14,8 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1">
 
+  <meta name="description" content="Currently accepting submissions for Rules to Play By, an exhibition of rules, instructions, recipes, scripts, programs, and scores.">
+
   <!-- Twitter card -->
   <meta name="twitter:card" content="summary_large_image">
   <!-- <meta name="twitter:site" content="@theflowgallery"> -->

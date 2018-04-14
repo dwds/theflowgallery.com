@@ -14,6 +14,8 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1">
 
+  <meta name="description" content="A series of exhibitions exploring the intersection of art &amp; games. Bringing together game designers &amp; artists.">
+
   <!-- Twitter card -->
   <meta name="twitter:card" content="summary_large_image">
   <!-- <meta name="twitter:site" content="@theflowgallery"> -->
