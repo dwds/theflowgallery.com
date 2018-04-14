@@ -119,11 +119,11 @@ nav a:hover {
 }
 
 .brianna-img {
-  /*clip-path: polygon(-3px 10.625%, 95% 5.625%, 88.75% 99.0625%, 3.4375% 92.8125%);*/
+  clip-path: polygon(-3px 10.625%, 95% 5.625%, 88.75% 99.0625%, 3.4375% 92.8125%);
 }
 
 .derek-img {
-  /*clip-path: polygon(5px 6.5625%, 87.5% 4.0625%, 90.9375% 87.1875%, 1.5625% 96.875%);*/
+  clip-path: polygon(5px 6.5625%, 87.5% 4.0625%, 90.9375% 87.1875%, 1.5625% 96.875%);
 }
 
 .bio a {
@@ -319,9 +319,5 @@ nav a:hover {
     float: left;
     margin-right: 20px;
     margin-bottom: 20px;
-  }
-
-  .bio h2 {
-    /*padding-top: 40px;*/
   }
 }
