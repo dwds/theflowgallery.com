@@ -109,10 +109,14 @@ nav a:hover {
   margin-bottom: 20px;
 }
 
-.about p,
+.about-description,
 .exhibitions p {
   font-size: 30px;
   font-weight: 200;
+}
+
+.about-description {
+  margin-bottom: 20px;
 }
 
 .bio img {
@@ -134,6 +138,7 @@ nav a:hover {
   list-style-position: inside;
   list-style-type: square;
   font-size: 30px;
+
 }
 
 .brianna-img {
@@ -175,7 +180,7 @@ nav a:hover {
   padding-top: 20.5vmin;
   padding-left: 18.2vmin;
   padding-right: 18.2vmin;
-  background-image: url(../img/flux-card-blank_950.jpg);
+  background-image: url(../img/flux-card-blank_950-opt.jpg);
   background-size: contain;
   background-repeat: no-repeat;
   background-position: top center;
@@ -357,12 +362,15 @@ nav a:hover {
   }
 }
 
-@media screen and (min-width: 642px) {
-  .bio img {
-    float: left;
+@media screen and (min-width: 665px) {
+
+  .bios {
+    display: block;
   }
 
-  .bio h2 {
-    padding-top: 40px;
+  .bio img {
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 20px;
   }
 }
