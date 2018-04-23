@@ -169,6 +169,30 @@ nav a:hover {
   font-weight: 600;
   font-size: 40px;
   margin-bottom: 10px;
+  margin-top: 30px;
+}
+
+.exhibitions h3 {
+  font-weight: 600;
+  font-size: 30px;
+  margin-bottom: 10px;
+}
+
+.exhibitions ul {
+  list-style-position: inside;
+  font-size: 25px;
+  margin-left: 20px;
+  margin-bottom: 20px;
+}
+
+.exhibitions li {
+  line-height: 1.5;
+}
+
+.submit-link {
+  border: 5px solid black;
+  padding: 10px;
+  border-radius: 10px;
 }
 
 /* RULES TO PLAY BY */
