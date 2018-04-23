@@ -146,6 +146,19 @@ nav a:hover {
   margin-bottom: 10px;
 }
 
+.exhibitions h3 {
+  font-weight: 600;
+  font-size: 30px;
+  margin-bottom: 10px;
+}
+
+.exhibitions ul {
+  list-style-position: inside;
+  font-size: 25px;
+  margin-left: 20px;
+  margin-bottom: 20px;
+}
+
 /* RULES TO PLAY BY */
 
 .fluxcard {

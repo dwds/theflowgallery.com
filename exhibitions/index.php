@@ -71,7 +71,22 @@
 
     <p><b>Rules to Play By</b> is a playful weekend exhibition of rules, instructions, recipes, scripts, programs, scores or any art exploring the theme of “rules to play by.”</p>
 
-    <p>We invite you to submit anything from a tabletop RPG to a musical score. All mediums are welcomed.</p>
+    <p>We are particularly interested in the point where instruction art becomes game-like, or where game rules intersect conceptual art.</p>
+
+    <p>We invite you to submit anything from a tabletop RPG to a musical score. All media are welcomed.</p>
+
+    <h3>Looking for inspiration?</h3>
+
+    <p>Here are some examples of work that have inspired us while putting together this exhibition.</p>
+
+    <ul>
+      <li><a href="http://www.a-i-u.net/instructions.html">Yoko Ono, Instruction Paintings</a></li>
+      <li><a href="https://www.moma.org/collection/works/portfolios/126322?locale=it">George Brecht, Water Yam</a></li>
+      <li>and <a href="http://www.deluxxe.com/beat/fluxusworkbook.pdf">other</a> Fluxus <a href="https://www.moma.org/explore/inside_out/2012/12/21/exhibiting-fluxus-keeping-score-in-tokyo-1955-1970-a-new-avant-garde/">scores</a></li>
+      <li><a href="https://en.wikipedia.org/wiki/Surrealist_techniques">Surrealist games</a></li>
+      <li><a href="http://modernistcommons.ca/islandora/object/yale%3A352">Tristan Tzara, Recipe for a Dadaist Poem</a></li>
+      <li><a href="http://www.mocp.org/detail.php?type=related&kv=3219&t=people">John Baldessari, Throwing Three Balls in the Air to Get a Straight Line</a></li>
+    </ul>
 
     <p>Selected pieces will be displayed in up to two locations for the weekend of <b>July 27–29, 2018</b>. One location is a popup art gallery. The other is within <b><a href="http://pixelpopfestival.com/">Pixelpop Festival</a></b>. Both locations are in <b>St. Louis, MO</b>.</p>
 
