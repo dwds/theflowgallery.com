@@ -88,6 +88,13 @@
       <li><a href="http://www.mocp.org/detail.php?type=related&kv=3219&t=people">John Baldessari, Throwing Three Balls in the Air to Get a Straight Line</a></li>
     </ul>
 
+    <h2>Submitting your work</h2>
+    <p>Provide a text description and, if applicable, visual documentation (digital images, videos, or web pages). If the work cannot be documented visually, please provide a clear description of the piece and how it would be presented.</p>
+
+    <p>You can either upload files directly through <b><a href="https://docs.google.com/forms/d/e/1FAIpQLScZhUcSIYOKSLhe6Fix0pMjwmaeETV5KjvBKs-2NO7YtFHgQA/viewform">this form</a></b>, or provide links to your project online. If you have any questions please contact <a href="mailto:smithderekw@gmail.com">smithderekw@gmail.com</a> or <a href="mailto:brianna@thebricade.com">brianna@thebricade.com</a>.</p>
+
+
+    <h2>Exhibition Details</h2>
     <p>Selected pieces will be displayed in up to two locations for the weekend of <b>July 27–29, 2018</b>. One location is a popup art gallery. The other is within <b><a href="http://pixelpopfestival.com/">Pixelpop Festival</a></b>. Both locations are in <b>St. Louis, MO</b>.</p>
 
     <p>If selected you will receive a notice of where your work will be showing.</p>
@@ -105,11 +112,6 @@
       7/23 - Work must be delivered<br>
       7/27 - Opening night
     </p>
-
-    <h2>Submitting your work</h2>
-    <p>Provide a text description and, if applicable, visual documentation (digital images, videos, or web pages). If the work cannot be documented visually, please provide a clear description of the piece and how it would be presented.</p>
-
-    <p>You can either upload files directly through <b><a href="https://docs.google.com/forms/d/e/1FAIpQLScZhUcSIYOKSLhe6Fix0pMjwmaeETV5KjvBKs-2NO7YtFHgQA/viewform">this form</a></b>, or provide links to your project online. If you have any questions please contact <a href="mailto:smithderekw@gmail.com">smithderekw@gmail.com</a> or <a href="mailto:brianna@thebricade.com">brianna@thebricade.com</a>.</p>
   </main>
 </body>
 </html>
