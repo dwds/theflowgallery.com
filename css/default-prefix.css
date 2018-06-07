@@ -185,6 +185,11 @@ nav a:hover {
   margin-bottom: 20px;
 }
 
+.exhibitions .artist-list {
+  -webkit-columns: 330px 2;
+          columns: 330px 2;
+}
+
 .exhibitions li {
   line-height: 1.5;
 }
