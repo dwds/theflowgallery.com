@@ -94,15 +94,6 @@
 
     <!-- <p class="submit-link"><b><a href="https://docs.google.com/forms/d/e/1FAIpQLScZhUcSIYOKSLhe6Fix0pMjwmaeETV5KjvBKs-2NO7YtFHgQA/viewform">Submit online</a></b> (requires Google sign-in)</p> -->
 
-    <h2>Timeline</h2>
-    <p>
-      4/30 - Submission deadline<br>
-      5/10 - Notice of acceptance<br>
-      7/16 - All digital files must be delivered<br>
-      7/23 - All work must be delivered<br>
-      7/27 - Opening night
-    </p>
-
     <div class="old-info" style="opacity: 0.4;">
       <h2>Call for entries</h2>
 
