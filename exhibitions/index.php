@@ -65,6 +65,8 @@
 
     <p>July 27–29, 2018 @ St. Louis, MO, USA</p>
 
+    <p>Opening reception Friday, July 27 @ <b><a href="https://www.snapdragonstl.com/">Snapdragon Studio</a></b>. Time TBA.</p>
+
     <p><b>Rules to Play By</b> is a playful weekend exhibition of rules, instructions, recipes, scripts, programs, and scores exploring the theme of “rules to play by.”</p>
 
     <p>We are particularly interested in the point where instruction art becomes game-like, or where game rules intersect conceptual art.</p>
