@@ -71,7 +71,7 @@
 
     <p>We are particularly interested in the point where instruction art becomes game-like, or where game rules intersect conceptual art.</p>
 
-    <p>Selected pieces will be displayed in up to two locations for the weekend of <b>July 27–29, 2018</b>. One location is <b><a href="https://www.snapdragonstl.com/">Snapdragon Studio</a></b>, a florist studio converted into a gallery during the summer. The other is within <b><a href="http://pixelpopfestival.com/">Pixelpop Festival</a></b>. Both locations are in <b>St. Louis, MO</b>.</p>
+    <p>Selected pieces will be displayed in two locations for the weekend of <b>July 27–29, 2018</b>. One location is <b><a href="https://www.snapdragonstl.com/">Snapdragon Studio</a></b>, a florist studio converted into a gallery during the summer. The other is within <b><a href="http://pixelpopfestival.com/">Pixelpop Festival</a></b>. Both locations are in <b>St. Louis, MO</b>.</p>
 
     <h3>Featuring work by</h3>
 
