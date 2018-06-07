@@ -65,13 +65,13 @@
 
     <p>July 27–29, 2018 @ St. Louis, MO, USA</p>
 
-    <p><strong>Submissions are now closed. Notice of acceptance will be sent by May 10, 2018.</strong></p>
+    <p><strong>Submissions are now closed.</strong></p>
 
     <p><b>Rules to Play By</b> is a playful weekend exhibition of rules, instructions, recipes, scripts, programs, scores or any art exploring the theme of “rules to play by.”</p>
 
     <p>We are particularly interested in the point where instruction art becomes game-like, or where game rules intersect conceptual art.</p>
 
-    <p>Selected pieces will be displayed in up to two locations for the weekend of <b>July 27–29, 2018</b>. One location is a popup art gallery. The other is within <b><a href="http://pixelpopfestival.com/">Pixelpop Festival</a></b>. Both locations are in <b>St. Louis, MO</b>.</p>
+    <p>Selected pieces will be displayed in up to two locations for the weekend of <b>July 27–29, 2018</b>. One location is <b><a href="https://www.snapdragonstl.com/">Snapdragon Studio</a></b>, a florist studio converted into a gallery during the summer. The other is within <b><a href="http://pixelpopfestival.com/">Pixelpop Festival</a></b>. Both locations are in <b>St. Louis, MO</b>.</p>
 
     <p>Selected work will also be compiled or photographed to be included in a show <b>catalog</b> that will be made available as a free pdf.</p>
 
@@ -81,7 +81,8 @@
     <p>
       4/30 - Submission deadline<br>
       5/10 - Notice of acceptance<br>
-      7/23 - Work must be delivered<br>
+      7/16 - All digital files must be delivered<br>
+      7/23 - All work must be delivered<br>
       7/27 - Opening night
     </p>
 
