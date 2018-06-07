@@ -65,13 +65,28 @@
 
     <p>July 27–29, 2018 @ St. Louis, MO, USA</p>
 
-    <p><strong>Submissions are now closed.</strong></p>
-
     <p><b>Rules to Play By</b> is a playful weekend exhibition of rules, instructions, recipes, scripts, programs, scores or any art exploring the theme of “rules to play by.”</p>
 
     <p>We are particularly interested in the point where instruction art becomes game-like, or where game rules intersect conceptual art.</p>
 
     <p>Selected pieces will be displayed in up to two locations for the weekend of <b>July 27–29, 2018</b>. One location is <b><a href="https://www.snapdragonstl.com/">Snapdragon Studio</a></b>, a florist studio converted into a gallery during the summer. The other is within <b><a href="http://pixelpopfestival.com/">Pixelpop Festival</a></b>. Both locations are in <b>St. Louis, MO</b>.</p>
+
+    <h3>Featuring work by</h3>
+
+    <ul class="artist-list">
+      <li><a href="https://sharangbiswas.myportfolio.com/">Sharang Biswas</a></li>
+      <li><a href="https://tambalaya.itch.io/">Tamara Duplantis</a></li>
+      <li><a href="http://www.jesseengland.net">Jesse England</a></li>
+      <li><a href="https://www.pninax.com/">Maya Felixbrodt</a></li>
+      <li><a href="http://hollygramazio.net">Holly Gramazio</a></li>
+      <li><a href="http://www.harrygiles.org">Harry Giles</a></li>
+      <li><a href="http://fransvanlent.nl/">Frans van Lent</a></li>
+      <li><a href="https://lotharioaps.com/">Lothario A. Peon de Schuyteru</a></li>
+      <li><a href="http://www.r25th.com">Adam Schroeder</a></li>
+      <li><a href="http://www.robertspahr.com">Robert Spahr</a></li>
+      <li><a href="http://www.daniellewilliamson.com">Dani Williamson</a></li>
+      <li><a href="https://jingyufanclub.com/">Jing Yu</a></li>
+    </ul>
 
     <p>Selected work will also be compiled or photographed to be included in a show <b>catalog</b> that will be made available as a free pdf.</p>
 
