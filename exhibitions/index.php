@@ -124,7 +124,7 @@
 
       <p>Please note that artists are responsible for delivery and pickup of all work. Further information will be sent out to selected artists.</p>
 
-      <p>You can either upload files directly through <b><a href="https://docs.google.com/forms/d/e/1FAIpQLScZhUcSIYOKSLhe6Fix0pMjwmaeETV5KjvBKs-2NO7YtFHgQA/viewform">this form</a></b>, or provide links to your project online. If you have any questions please contact <a href="mailto:smithderekw@gmail.com">smithderekw@gmail.com</a> or <a href="mailto:brianna@thebricade.com">brianna@thebricade.com</a>.</p>
+      <p>If you have any questions please contact <a href="mailto:smithderekw@gmail.com">smithderekw@gmail.com</a> or <a href="mailto:brianna@thebricade.com">brianna@thebricade.com</a>.</p>
 
       <p>If selected you will receive a notice of where your work will be showing.</p>
 
