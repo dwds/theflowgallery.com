@@ -63,18 +63,18 @@
     <p>An exhibition of rules, instructions, recipes, scripts, programs, and scores intersecting games &amp; art.</p>
 
     <ul>
-      <li>submit</li>
-      <li>submit</li>
-      <li>submit</li>
-      <li contenteditable="false"><a href="exhibitions/">submit</a></li>
-      <li contenteditable="false"><a href="exhibitions/">submit</a></li>
-      <li contenteditable="false"><a href="exhibitions/">submit</a></li>
-      <li contenteditable="false"><a href="exhibitions/">submit</a></li>
-      <li contenteditable="false"><a href="exhibitions/">submit</a></li>
-      <li contenteditable="false"><a href="exhibitions/">submit</a></li>
-      <li contenteditable="false"><a href="exhibitions/">submit</a></li>
-      <li contenteditable="false"><a href="exhibitions/">submit</a></li>
-      <li contenteditable="false"><a href="exhibitions/">submit</a></li>
+      <li>July 27–29</li>
+      <li>St. Louis, MO</li>
+      <li>2 locations</li>
+      <li contenteditable="false"><a href="exhibitions/">info</a></li>
+      <li contenteditable="false"><a href="exhibitions/">info</a></li>
+      <li contenteditable="false"><a href="exhibitions/">info</a></li>
+      <li contenteditable="false"><a href="exhibitions/">info</a></li>
+      <li contenteditable="false"><a href="exhibitions/">info</a></li>
+      <li contenteditable="false"><a href="exhibitions/">info</a></li>
+      <li contenteditable="false"><a href="exhibitions/">info</a></li>
+      <li contenteditable="false"><a href="exhibitions/">info</a></li>
+      <li contenteditable="false"><a href="exhibitions/">info</a></li>
     </ul>
     <footer contenteditable="false">
       design inspired by the Fluxkit <cite><a href="https://www.moma.org/collection/works/portfolios/126322?locale=it">Water Yam</a></cite> by George Brecht.
