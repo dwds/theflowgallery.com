@@ -83,7 +83,7 @@
       <li><a href="http://hollygramazio.net">Holly Gramazio</a></li>
       <li><a href="http://www.harrygiles.org">Harry Giles</a></li>
       <li><a href="http://fransvanlent.nl/">Frans van Lent</a></li>
-      <li><a href="https://lotharioaps.com/">Lothario A. Peon de Schuyteru</a></li>
+      <li><a href="https://lotharioaps.com/">Lothario A. Peon de Schuyter</a></li>
       <li><a href="http://www.r25th.com">Adam Schroeder</a></li>
       <li><a href="http://www.robertspahr.com">Robert Spahr</a></li>
       <li><a href="http://www.daniellewilliamson.com">Dani Williamson</a></li>
