@@ -65,13 +65,21 @@
 
     <p>July 27–29, 2018 @ St. Louis, MO, USA</p>
 
-    <p>Opening reception Friday, July 27, 7:00pm @ <b><a href="https://www.snapdragonstl.com/">Snapdragon Studio</a></b>.</p>
+    <p><strong>Opening reception</strong> Friday July 27, 7:00pm @ <b><a href="https://www.snapdragonstl.com/">Snapdragon Studio</a></b>.</p>
+    <p><strong>Gallery hours</strong> Sat/Sun July 28–29, 3:00pm–7:00pm @ <b><a href="https://www.snapdragonstl.com/">Snapdragon Studio</a></b></p>
+    <p>Also @ <b><a href="http://pixelpopfestival.com/">PixelPop Festival</a></b> July 28–29, 10:00am–6:00pm</p>
+
+    <p>Participatory performance of Frans Van Lent's <cite>A Performative Walk 3</cite>:</p>
+      <ul>
+        <li>Friday July 27, 6:00pm @ Snapdragon Studio</li>
+        <li>Sunday July 29, 9:00am @ PixelPop Festival</li>
+      </ul>
 
     <p><b>Rules to Play By</b> is a playful weekend exhibition of rules, instructions, recipes, scripts, programs, and scores exploring the theme of “rules to play by.”</p>
 
     <p>We are particularly interested in the point where instruction art becomes game-like, or where game rules intersect conceptual art.</p>
 
-    <p>Selected pieces will be displayed in two locations for the weekend of <b>July 27–29, 2018</b>. One location is <b><a href="https://www.snapdragonstl.com/">Snapdragon Studio</a></b>, a florist studio converted into a gallery during the summer. The other is within <b><a href="http://pixelpopfestival.com/">Pixelpop Festival</a></b>. Both locations are in <b>St. Louis, MO</b>.</p>
+    <p>Selected pieces will be displayed in two locations for the weekend of <b>July 27–29, 2018</b>. One location is <b><a href="https://www.snapdragonstl.com/">Snapdragon Studio</a></b>, a florist studio converted into a gallery during the summer. The other is within <b><a href="http://pixelpopfestival.com/">PixelPop Festival</a></b>. Both locations are in <b>St. Louis, MO</b>.</p>
 
     <h3>Featuring work by</h3>
 
