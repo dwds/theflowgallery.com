@@ -329,6 +329,11 @@ nav a:hover {
           transform: rotate(90deg);
 }
 
+.fluxcard footer {
+  position: relative;
+  z-index: 10;
+}
+
 @media screen and (orientation: portrait), screen and (orientation: landscape) and (max-aspect-ratio: 500/448) {
   .fluxcard {
     width: 97vmin;
