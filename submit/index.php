@@ -63,52 +63,20 @@
 
     <h2>Rules to Play By</h2>
 
-    <p>July 27–29, 2018 @ St. Louis, MO, USA</p>
-
-    <p><strong>Opening reception</strong> Friday July 27, 7:00pm @ <b><a href="https://www.snapdragonstl.com/">Snapdragon Studio</a></b>.</p>
-    <p><strong>Gallery hours</strong> Sat/Sun July 28–29, 3:00pm–7:00pm @ <b><a href="https://www.snapdragonstl.com/">Snapdragon Studio</a></b></p>
-    <p>Also @ <b><a href="http://pixelpopfestival.com/">PixelPop Festival</a></b> July 28–29, 10:00am–6:00pm</p>
-
-    <p>Participatory performance of Frans Van Lent's <cite>A Performative Walk 3</cite>:</p>
-      <ul>
-        <li>Friday July 27, 6:00pm @ Snapdragon Studio</li>
-        <li>Sunday July 29, 9:00am @ PixelPop Festival</li>
-      </ul>
+    <p>September 14–15, 2019 @ PixelPop Festival, St. Louis, MO, USA</p>
 
     <p><b>Rules to Play By</b> is a playful weekend exhibition of rules, instructions, recipes, scripts, programs, and scores exploring the theme of “rules to play by.”</p>
 
     <p>We are particularly interested in the point where instruction art becomes game-like, or where game rules intersect conceptual art.</p>
 
-    <p>Selected pieces will be displayed in two locations for the weekend of <b>July 27–29, 2018</b>. One location is <b><a href="https://www.snapdragonstl.com/">Snapdragon Studio</a></b>, a florist studio converted into a gallery during the summer. The other is within <b><a href="http://pixelpopfestival.com/">PixelPop Festival</a></b>. Both locations are in <b>St. Louis, MO</b>.</p>
+    <p>Selected pieces will be displayed at <a href="http://pixelpopfestival.com/">PixelPop Festival</a> in St. Louis, MO during the weekend of <b>September 14–15, 2019</b>.
 
-    <h3>Featuring work by</h3>
-
-    <ul class="artist-list">
-      <li><a href="https://sharangbiswas.myportfolio.com/">Sharang Biswas</a></li>
-      <li><a href="https://tambalaya.itch.io/">Tamara Duplantis</a></li>
-      <li><a href="http://www.jesseengland.net">Jesse England</a></li>
-      <li><a href="https://www.pninax.com/">Maya Felixbrodt</a></li>
-      <li><a href="http://hollygramazio.net">Holly Gramazio</a></li>
-      <li><a href="http://www.harrygiles.org">Harry Giles</a></li>
-      <li><a href="http://fransvanlent.nl/">Frans van Lent</a></li>
-      <li><a href="https://lotharioaps.com/">Lothario A. Peon de Schuyter</a></li>
-      <li><a href="http://www.r25th.com">Adam Schroeder</a></li>
-      <li><a href="http://www.robertspahr.com">Robert Spahr</a></li>
-      <li><a href="http://www.daniellewilliamson.com">Dani Williamson</a></li>
-      <li><a href="https://jingyufanclub.com/">Jing Yu</a></li>
-    </ul>
-
-    <p>Selected work will also be compiled or photographed to be included in a show <b>catalog</b> that will be made available as a free pdf.</p>
-
-    <!-- <p class="submit-link"><b><a href="https://docs.google.com/forms/d/e/1FAIpQLScZhUcSIYOKSLhe6Fix0pMjwmaeETV5KjvBKs-2NO7YtFHgQA/viewform">Submit online</a></b> (requires Google sign-in)</p> -->
-
-    <div class="old-info" style="opacity: 0.4;">
+    <div>
       <h2>Call for entries</h2>
 
-      <p><strong>*Submissions are now closed.*</strong></p>
-
       <p><strong>Notice of acceptance will be sent by May 10, 2018.</strong></p>
-      <!-- <p class="submit-link"><b><a href="https://docs.google.com/forms/d/e/1FAIpQLScZhUcSIYOKSLhe6Fix0pMjwmaeETV5KjvBKs-2NO7YtFHgQA/viewform">Submit online</a></b> (requires Google sign-in)</p> -->
+
+      <p class="submit-link"><b><a href="https://docs.google.com/forms/d/e/1FAIpQLScZhUcSIYOKSLhe6Fix0pMjwmaeETV5KjvBKs-2NO7YtFHgQA/viewform">Submit online</a></b> (requires Google sign-in)</p>
 
       <p><strong>Deadline for submissions: Monday April 30, 2018.</strong></p>
 
