@@ -74,15 +74,19 @@
     <div>
       <h2>Call for entries</h2>
 
+      <?php // TODO: change notice date ?>
       <p><strong>Notice of acceptance will be sent by May 10, 2018.</strong></p>
 
+      <?php // TODO: change form link ?>
       <p class="submit-link"><b><a href="https://docs.google.com/forms/d/e/1FAIpQLScZhUcSIYOKSLhe6Fix0pMjwmaeETV5KjvBKs-2NO7YtFHgQA/viewform">Submit online</a></b> (requires Google sign-in)</p>
 
+      <?php // TODO: change deadline ?>
       <p><strong>Deadline for submissions: Monday April 30, 2018.</strong></p>
 
       <p>We invite you to submit anything from a tabletop RPG to a musical score. All media are welcome.</p>
 
       <h3>Looking for inspiration?</h3>
+      <?php // TODO: Add link to 2018 documentation ?>
 
       <p>Here are some examples of work that have inspired us while putting together this exhibition.</p>
 
@@ -95,14 +99,15 @@
         <li><a href="http://www.mocp.org/detail.php?type=related&kv=3219&t=people">John Baldessari, Throwing Three Balls in the Air to Get a Straight Line</a></li>
       </ul>
 
+
+      <?php // TODO: update submission instructions ?>
       <h2>Submitting your work</h2>
       <p>Provide a text description and, if applicable, visual documentation (digital images, videos, or web pages). If the work cannot be documented visually, please provide a clear description of the piece and how it would be presented.</p>
 
       <p>Please note that artists are responsible for delivery and pickup of all work. Further information will be sent out to selected artists.</p>
 
+      <?php // TODO: change email contact ?>
       <p>If you have any questions please contact <a href="mailto:smithderekw@gmail.com">smithderekw@gmail.com</a> or <a href="mailto:brianna@thebricade.com">brianna@thebricade.com</a>.</p>
-
-      <p>If selected you will receive a notice of where your work will be showing.</p>
 
     </div>
   </main>
