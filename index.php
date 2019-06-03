@@ -63,9 +63,9 @@
     <p>An exhibition of rules, instructions, recipes, scripts, programs, and scores intersecting games &amp; art.</p>
 
     <ul>
-      <li>July 27–29</li>
+      <li>September 14–5</li>
+      <li>PixelPop Festival</li>
       <li>St. Louis, MO</li>
-      <li>2 locations</li>
       <li contenteditable="false"><a href="exhibitions/">info</a></li>
       <li contenteditable="false"><a href="exhibitions/">info</a></li>
       <li contenteditable="false"><a href="exhibitions/">info</a></li>
