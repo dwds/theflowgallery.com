@@ -72,7 +72,7 @@
 
     <p>We invite you to submit anything from a tabletop RPG to a musical score. All media are welcome.</p>
 
-    <p>Selected pieces will be displayed at <a href="http://pixelpopfestival.com/">PixelPop Festival</a> in St. Louis, MO during the weekend of <b>September 14–15, 2019</b>.
+    <p>Selected pieces will be displayed at <a href="http://pixelpopfestival.com/">PixelPop Festival</a> in St. Louis, MO during the weekend of <b>September 14–15, 2019</b>.</p>
 
     <?php // TODO: change form link ?>
     <a class="submit-cta" href="https://docs.google.com/forms/d/e/1FAIpQLScZhUcSIYOKSLhe6Fix0pMjwmaeETV5KjvBKs-2NO7YtFHgQA/viewform">Submit your work</a>
