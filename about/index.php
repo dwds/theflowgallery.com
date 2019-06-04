@@ -62,7 +62,7 @@
 
     <p class="about-description">Follow us on Twitter: <b><a href="https://twitter.com/theflowgallery">@theflowgallery</a></b></p>
 
-    <p>Email: <a href="mailto:curators@theflowgallery.com">curators@theflowgallery.com</a></p>
+    <p class="about-description">Email: <a href="mailto:curators@theflowgallery.com">curators@theflowgallery.com</a></p>
 
     <p class="about-description">The Flow Gallery is a series of exhibitions exploring the intersection of art &amp; games. As its name suggests, the gallery does not exist in a single location. We exhibit at game festivals and art galleries in an attempt to bridge game designers and artists. The Flow Gallery is curated by Brianna Shuttleworth &amp; Derek Dadian-Smith.</p>
 
