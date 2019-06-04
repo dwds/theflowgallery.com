@@ -91,7 +91,7 @@
       <li><a href="http://www.mocp.org/detail.php?type=related&kv=3219&t=people">John Baldessari, Throwing Three Balls in the Air to Get a Straight Line</a></li>
     </ul>
 
-    <p class="submit-link"><b>See full submission details and submit online through our Google form. (requires Google sign-in)</b></p>
+    <p><b>See full submission details and submit online through our Google form. (requires Google sign-in)</b></p>
 
     <?php // TODO: change form link ?>
     <a class="submit-cta" href="https://docs.google.com/forms/d/e/1FAIpQLScZhUcSIYOKSLhe6Fix0pMjwmaeETV5KjvBKs-2NO7YtFHgQA/viewform">Submit your work</a>
