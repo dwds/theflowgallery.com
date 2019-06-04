@@ -45,7 +45,7 @@
     unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
     }
   </style>
-  <link rel="stylesheet" href="../css/default.css?v=2.1">
+  <link rel="stylesheet" href="../css/default.css?v=2.7">
 </head>
 <body>
   <header>
@@ -73,9 +73,6 @@
     <p>We invite you to submit anything from a tabletop RPG to a musical score. All media are welcome.</p>
 
     <p>Selected pieces will be displayed at <a href="http://pixelpopfestival.com/">PixelPop Festival</a> in St. Louis, MO during the weekend of <b>September 14–15, 2019</b>.</p>
-
-    <?php // TODO: change form link ?>
-    <a class="submit-cta" href="https://docs.google.com/forms/d/e/1FAIpQLScZhUcSIYOKSLhe6Fix0pMjwmaeETV5KjvBKs-2NO7YtFHgQA/viewform">Submit your work</a>
 
     <h3>Looking for inspiration?</h3>
     <?php // TODO: Add link to 2018 documentation ?>
