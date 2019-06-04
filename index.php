@@ -21,7 +21,7 @@
   <!-- <meta name="twitter:site" content="@theflowgallery"> -->
   <meta property="og:url" content="https://theflowgallery.com/">
   <meta property="og:title" content="Rules to Play By: A game / art exhibition">
-  <meta property="og:description" content="July 27–29 in STL, MO. An exhibition of rules, instructions, recipes, scripts, programs, and scores exploring the theme of “rules to play by.”">
+  <meta property="og:description" content="September 14–15 in STL, MO. An exhibition of rules, instructions, recipes, scripts, programs, and scores exploring the theme of “rules to play by.”">
   <meta property="og:image" content="http://theflowgallery.com/img/rules-to-play-by.png">
   <meta property="og:image:alt" content="A paper card in the style of Fluxus event scores. The text “submit” is repeated.">
 
