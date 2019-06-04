@@ -64,7 +64,7 @@
     <h2>Call for entries</h2>
 
     <?php // TODO: change form link ?>
-    <a class="submit-cta" href="https://docs.google.com/forms/d/e/1FAIpQLScZhUcSIYOKSLhe6Fix0pMjwmaeETV5KjvBKs-2NO7YtFHgQA/viewform">Submit your work</a>
+    <a class="submit-cta" href="https://docs.google.com/forms/d/e/1FAIpQLScZhUcSIYOKSLhe6Fix0pMjwmaeETV5KjvBKs-2NO7YtFHgQA/viewform">Submission form</a>
 
     <p>Submissions due Sunday July 28, 2019.</p>
 
@@ -102,7 +102,7 @@
     <p><b>See full submission details and submit online through our Google form. (requires Google sign-in)</b></p>
 
     <?php // TODO: change form link ?>
-    <a class="submit-cta" href="https://docs.google.com/forms/d/e/1FAIpQLScZhUcSIYOKSLhe6Fix0pMjwmaeETV5KjvBKs-2NO7YtFHgQA/viewform">Submit your work</a>
+    <a class="submit-cta" href="https://docs.google.com/forms/d/e/1FAIpQLScZhUcSIYOKSLhe6Fix0pMjwmaeETV5KjvBKs-2NO7YtFHgQA/viewform">Submission form</a>
 
     <p>Please contact Derek &amp; Brianna at <a href="mailto:curators@theflowgallery.com">curators@theflowgallery.com</a> with any questions.</p>
   </main>
