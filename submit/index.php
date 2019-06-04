@@ -77,7 +77,7 @@
     <h3>Looking for inspiration?</h3>
     <?php // TODO: Add link to 2018 documentation ?>
 
-    <p>Here are some examples of work that have inspired us while putting together this exhibition.</p>
+    <p>Here are some examples of work that has inspired us while putting together this exhibition.</p>
 
     <ul>
       <li><a href="http://www.a-i-u.net/instructions.html">Yoko Ono, Instruction Paintings</a></li>
