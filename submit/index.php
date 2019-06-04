@@ -66,6 +66,8 @@
     <?php // TODO: change form link ?>
     <a class="submit-cta" href="https://docs.google.com/forms/d/e/1FAIpQLScZhUcSIYOKSLhe6Fix0pMjwmaeETV5KjvBKs-2NO7YtFHgQA/viewform">Submit your work</a>
 
+    <p>Submissions due Sunday July 28, 2019.</p>
+
     <p><b>Rules to Play By</b> is a playful weekend exhibition of rules, instructions, recipes, scripts, programs, and scores exploring the theme of “rules to play by.”</p>
 
     <p>We are particularly interested in the point where instruction art becomes game-like, or where game rules intersect conceptual art.</p>
@@ -87,6 +89,15 @@
       <li><a href="http://modernistcommons.ca/islandora/object/yale%3A352">Tristan Tzara, Recipe for a Dadaist Poem</a></li>
       <li><a href="http://www.mocp.org/detail.php?type=related&kv=3219&t=people">John Baldessari, Throwing Three Balls in the Air to Get a Straight Line</a></li>
     </ul>
+
+    <h3>Timeline</h3>
+
+    <p>
+      July 28 — Submissions due<br>
+      August 8 — Notice of acceptance<br>
+      September 1 — Work must be delivered<br>
+      September 14 — Exhibition opening
+    </p>
 
     <p><b>See full submission details and submit online through our Google form. (requires Google sign-in)</b></p>
 
