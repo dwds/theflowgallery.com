@@ -96,7 +96,7 @@
     <?php // TODO: change form link ?>
     <a class="submit-cta" href="https://docs.google.com/forms/d/e/1FAIpQLScZhUcSIYOKSLhe6Fix0pMjwmaeETV5KjvBKs-2NO7YtFHgQA/viewform">Submit your work</a>
 
-    <p>If you have any questions please contact Derek &amp; Brianna at <a href="mailto:curators@theflowgallery.com">curators@theflowgallery.com</a>.</p>
+    <p>Please contact Derek &amp; Brianna at <a href="mailto:curators@theflowgallery.com">curators@theflowgallery.com</a> with any questions.</p>
   </main>
 </body>
 </html>
