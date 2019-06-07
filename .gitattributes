@@ -1,2 +1,0 @@
-# Fix github/linguist identifying PHP files as Hack files
-*.php linguist-language=HTML
